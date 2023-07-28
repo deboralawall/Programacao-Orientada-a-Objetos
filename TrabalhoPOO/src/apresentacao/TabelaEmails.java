@@ -1,7 +1,5 @@
 package apresentacao;
 
-
-
 import javax.swing.table.AbstractTableModel;
 import negocio.Sistema;
 
