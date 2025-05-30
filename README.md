@@ -1,15 +1,45 @@
-Aplicação de Correio Eletrônico - Interface
+# 📧 Sistema de Correio Eletrônico (Email)
 
-No trabalho proposto, desenvolvi uma aplicação que permite que usuários troquem mensagens de texto entre si, tal como se fosse um e-mail. 
-Cada e-mail tem um remetente e um destinatário, além de um corpo e uma data e hora de envio. O remetente e o destinatário são ambos usuários.
-Cada usuário, possui um nome, e-mail e senha. A aplicação é capaz de cadastrar novos usuários e realizar o login dos mesmos. 
-Cada usuário, ao estar logado no sistema, pode visualizar, excluir ou responder os e-mails recebidos, se houverem, além de poder enviar novos e-mails
-a outros usuários. Um usuário não pode enviar um e-mail para si mesmo. 
-O trabalho foi desenvolvido em partes:
-Parte 1 - Sistema de email em java;
-Parte 2 - Desenvolvimento de interface gráfica;
-Parte 3 - Persistência no banco de dados;
+✨ Aplicação completa de troca de mensagens com interface gráfica e persistência em banco de dados
+## 📌 Visão Geral
 
-Diagrama de classe da aplicação:
+Desenvolvi um sistema de mensagens eletrônicas similar a um serviço de email, com as seguintes funcionalidades:
+
+✅ Cadastro e autenticação de usuários  
+✅ Envio e recebimento de mensagens  
+✅ Interface gráfica intuitiva  
+✅ Persistência de dados em banco de dados  
+✅ Validações de segurança (usuário não pode enviar email para si mesmo)  
+
+## 🔍 Funcionalidades Principais
+### 👤 Gestão de Usuários
+
+    Cadastro de novos usuários (nome, email, senha)
+
+    Autenticação segura
+
+    Perfil do usuário
+
+### ✉️ Sistema de Mensagens
+
+    Envio de emails para outros usuários
+
+    Visualização da caixa de entrada
+
+    Resposta a mensagens recebidas
+
+    Exclusão de mensagens
+
+    Histórico com data/hora de envio
+
+### 🗃️ Persistência de Dados
+
+    Armazenamento de usuários
+
+    Histórico completo de mensagens
+
+    Recuperação de dados ao reiniciar
+
+
 
 ![Diagrama](https://github.com/deboralawall/POO/assets/86936640/7623381c-6724-41e4-9a99-e9a0ee994a5b)
