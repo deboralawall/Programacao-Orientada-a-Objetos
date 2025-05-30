@@ -1,6 +1,6 @@
 # 📧 Sistema de Correio Eletrônico (Email)
 
-✨ Aplicação completa de troca de mensagens com interface gráfica e persistência em banco de dados
+Aplicação completa de troca de mensagens com interface gráfica e persistência em banco de dados
 ## 📌 Visão Geral
 
 Desenvolvi um sistema de mensagens eletrônicas similar a um serviço de email, com as seguintes funcionalidades:
