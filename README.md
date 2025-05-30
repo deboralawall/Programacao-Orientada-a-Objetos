@@ -41,5 +41,12 @@ Desenvolvi um sistema de mensagens eletrônicas similar a um serviço de email, 
     Recuperação de dados ao reiniciar
 
 
+## 💡 Nota: Este projeto foi desenvolvido em três fases:
+
+    Lógica básica em Java
+
+    Implementação da interface gráfica
+
+    Integração com banco de dados para persistência
 
 ![Diagrama](https://github.com/deboralawall/POO/assets/86936640/7623381c-6724-41e4-9a99-e9a0ee994a5b)
